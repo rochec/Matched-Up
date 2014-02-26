@@ -1,5 +1,5 @@
 //
-//  CRSecondViewController.h
+//  CRSettingsViewController.h
 //  Matched Up
 //
 //  Created by Chris Roche on 2/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CRSecondViewController : UIViewController
+@interface CRSettingsViewController : UIViewController
 
 @end

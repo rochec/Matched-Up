@@ -1,5 +1,5 @@
 //
-//  CRFirstViewController.h
+//  CRHomeViewController.h
 //  Matched Up
 //
 //  Created by Chris Roche on 2/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CRFirstViewController : UIViewController
+@interface CRHomeViewController : UIViewController
 
 @end
